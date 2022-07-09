@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Qingxiao Sun"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "sunqingxiao/sunqingxiao.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,15 +21,17 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Qingxiao Sun"
+  avatar           : "images/QingxiaoSun.jpg"
+  bio              : "Beihang University"
   location         : "Beijing, China"
-  employer         :
+  location_long    : ['Room 518', 'Science Building #5']
+  employer         : "Beihang University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=LviGR8EAAAAJ"
+  email            : "qingxiaosun@buaa.edu.cn"
+  researchgate     :  "https://www.researchgate.net/profile/Qingxiao-Sun"
+  phone            :  "+86 10 6276 0779"  
   uri              :
   bitbucket        :
   codepen          :
@@ -44,7 +46,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : ""https://dblp.uni-trier.de/pers/l/Liang_0001:Yun.html""
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
