@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qingxiao Sun"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Hailong Yang"
+description              : "Research Professor"
 repository               : "sunqingxiao/sunqingxiao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,17 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qingxiao Sun"
-  avatar           : "images/QingxiaoSun.jpg"
-  bio              : "Beihang University"
-  location         : "Beijing, China"
-  location_long    : ['Room 518', 'Science Building #5']
+  name             : "Hailong Yang"
+  avatar           : "images/HailongYang.jpg"
+  bio              : # "Beihang University"
   employer         : "Beihang University"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=LviGR8EAAAAJ"
+  location         : "823, New Building"
+  phone           :  "123"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=LviGR8EAAAAJ&hl=zh-CN"
   email            : "qingxiaosun@buaa.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Qingxiao-Sun"
-  phone            :  "+86 10 6276 0779"  
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -39,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "buaa-hipo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : ""https://dblp.uni-trier.de/pers/l/Liang_0001:Yun.html""
+  dblp             : "https://dblp.uni-trier.de/pers/l/Liang_0001:Yun.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
