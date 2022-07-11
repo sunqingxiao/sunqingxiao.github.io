@@ -63,6 +63,7 @@ Some examples:
     1. Note that the `Ruby` version >= 2.7.0；
     2. After installing environment, enter the REPO and execute `bundle install`;
     3. If `bundle install` is too slow, change the `RubyGems` mirror source according to [the guide](https://gems.ruby-china.com/).
+    4. For `EventMachine` error, refer to the answers in [stackoverflow](https://stackoverflow.com/questions/30682575/unable-to-load-the-eventmachine-c-extension-to-use-the-pure-ruby-reactor).
 3. Run `bash run_server.sh` to start Jekyll server.
 4. Open http://127.0.0.1:4000 in your browser.
 5. If you change the source code of the website, restart the server to refresh the pages.
