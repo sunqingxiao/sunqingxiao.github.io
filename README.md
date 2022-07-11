@@ -60,10 +60,13 @@ Some examples:
 
 1. Clone your REPO to local using `git clone`.
 1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+    1. Note that the `Ruby` version >= 2.7.0；
+    2. After installing environment, enter the REPO and execute `bundle install`;
+    3. If `bundle install` is too slow, change the `RubyGems` mirror source according to [the guide](https://gems.ruby-china.com/).
+3. Run `bash run_server.sh` to start Jekyll server.
+4. Open http://127.0.0.1:4000 in your browser.
+5. If you change the source code of the website, restart the server to refresh the pages.
+6. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
 # Acknowledges
 
