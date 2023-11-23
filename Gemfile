@@ -14,9 +14,10 @@ gem "github-pages", group: :jekyll_plugins
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-# gem "jekyll"
-
-gem 'bcrypt-ruby', '~> 3.0.0'
+# gem "jekyll
+#
+gem 'bcrypt', '~>3.1.18'
+#gem 'bcrypt-ruby', '~> 3.1.11'
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
@@ -30,3 +31,7 @@ end
 
 gem 'tzinfo'
 gem 'tzinfo-data'
+
+gem "webrick", "~> 1.7"
+
+gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'

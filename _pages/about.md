@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hailong Yang"
+title: "Qingxiao Sun"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,52 +8,55 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-**Associate Professor/Research Professor**
+**Associate Professor**
 
-*School of EECS*  
-*Center for Energy-efficient Computing and Applications (CECA)*  
-*Peking University*  
-*Room 518, Science Building No.5, Yiheyuan Rd No.5, Beijing, 100871*
+*Super Scientific Software Laboratory (SSSLab)*
 
-I am an Associate Professor (with tenure) in the School of Integrated Circuit at Peking University and a member of Center for Energy-efficient Computing and Applications (CECA). My research interest is at the hardware-software interface with work spanning electronic design automation (EDA), hardware and software co-design, and computer architecture. My recent publications investigate new algorithms, programming models, design automation tools and methodologies, and hardware for high-performance and energy-efficient computer systems. I have authored over 100 scientific publications in the leading international journals and conferences. My research has been recognized with two Best Paper Awards (FCCM 2011 and ICCAD 2017), six Best Paper Award Nominations (PPoPP 2019, DAC 2017, ASPDAC 2016, DAC 2012, FPT 2011, CODES+ISSS 2008), CCF-IEEE CS Young Computer Scientist Award (2020), Beijing Natural Science Fund for Distinguished Young Scholars (2019), and Beijing Academy of Artificial Intelligence (BAAI) Young Scientist Award. I received the Excellence Teaching Award from Peking University in 2017. My research has been funded by NSFC, BNSF, SenseTime, Alibaba, etc. I am currently the Director of PKU-SenseTime Joint Lab of Intelligent Computing.
+*College of Information Science and Engineering (CISE)*  
 
-I currently serve as Associate Editor of the ACM Transactions on Embedded Computing Systems (TECS), ACM Transactions on Reconfigurable Technology and Systems (TRETS), and IEEE Embedded Systems Letters (ESL). I was the program chair of 30th Annual IEEE International Conference on Application-specific Systems, Architecture and Processors (ASAP) 2019 and the subcommittee chair of Asia South Pacific Design Automation Conference (ASPDAC) 2014. I also serve in the program committees in the premier conferences including DAC, ICCAD, DATE, ASPDAC, FPGA, FCCM, HPCA, MICRO, ASPLOS, ISCA, PPoPP, PACT, CGO, ICS, CC, CASES, LCTES, ASAP, and ICCD. Prior to joining Peking University, I received my Ph.D in Computer Science from National University of Singapore in 2010. Upon graduation, I worked as a Research Scientist in UIUC. 
+*China University of Petroleum-Beijing (CUP)*  
 
+I am an associate professor in Super Scientific Software Laboratory ([SSSLab](https://www.ssslab.cn/)) at China University of Petroleum-Beijing. I received Ph.D degree under supervision of [Prof. Yi Liu](https://scse.buaa.edu.cn/info/1078/2656.htm) and [Asso. Prof. Hailong Yang](https://thomas-yang.github.io/). My research interests include high performance computing, computer architecture, deep learning system and parallel computing. My recent research invetigates performance auto-tuning, GPU architecture extension, runtime mechanism and graph neural network training. I have authored about 20 publications in the leading international journals and conferences. 
+
+I am awarded with ACM SIGHPC China Doctoral Disseration Award (ACM SIGHPC中国优博奖) and CCF TCARCH Doctoral Disseration Award (CCF体系结构优博奖). My papers have been selected as CLUSTER'21 Best Paper Nomination and IEEE Computer's "Spotlight on Transactions". I currently serve as reviewers in the premier journals including TPDS, TC, TCC and THPC.
 
 # 🔥 News
-- **May 2022:** Invited to give a talk on **“Agile Hardware Specialization for Spatial Architecture” at China Semiconductor Technology International Conference (CSTIC)** on June 17. 
-- **April 2022:**  Invited to serve as the program co-chair (with Hiroki Nakahara at Tokyo Institute of Technology) for [International Conference on Field Programmable Technology (FPT) 2022](https://fpt22.hkust.edu.hk/).
-- **March 2022:** One paper (AMOS) is accepted to ISCA’22. Congratulations to Size and other co-authors.
-- **Best Paper Award Nomination**, Design Automation Conference (DAC), June 2012. 
-- **Feb 2022:** Invited to give a keynote talk at [31st International Workshop on Logic & Synthesis (IWLS’22)](https://www.iwls.org/iwls2022/). 
-- **Feb 2022:** One paper (EMS) is accepted to DAC’22. Congratulations to Liancheng.
+- 🔥 **November 2023:** Awarded with ACM SIGHPC China Doctoral Disseration Award (**ACM SIGHPC中国优博奖**).
+- 🔥 **October 2023:** One paper (GSTuner) is accepted to **TPDS**.
+- 🔥 **August 2023:** Invited to give two talks at **CCF HPCChina**.
+- 🔥 **August 2023:** Awarded with CCF TCARCH Doctoral Disseration Award (**CCF体系结构优博奖**).
+- 🔥 **May 2023:**  One TC paper (SpTFS) is selected as IEEE Computer's "**Spotlight on Transactions**".
+- **December 2022:** One paper (Mimose) is accepted to **IPDPS'23**.
+- **July 2022:** One paper (SMQoS) is accepted to **PARCO**.
+- **June 2022:** One paper (CoGNN) is accepted to **SC'22**.
 
-# 📝 Publications 
-
-- [csTuner: Scalable Auto-tuning Framework for Complex Stencil Computation on GPUs](https://ieeexplore.ieee.org/document/9556044) (**CLUSTER**) 2021.
+# 📝 Selected Publications
+- [Adaptive Auto-Tuning Framework for Global Exploration of Stencil Optimization on GPUs](https://ieeexplore.ieee.org/abstract/document/10287597) (**TPDS**) 2023.
+- [Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU](https://ieeexplore.ieee.org/abstract/document/10177427) (**IPDPS**) 2023.
+- [CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs](https://ieeexplore.ieee.org/abstract/document/10046055) (**SC**) 2022.
+- [QoS-aware Dynamic Resource Allocation with Improved Utilization and Energy Efficiency on GPU](https://www.sciencedirect.com/science/article/abs/pii/S0167819122000503) (**PARCO**) 2022.
+- [StencilMART: Predicting Optimization Selection for Stencil Computations across GPUs](https://ieeexplore.ieee.org/abstract/document/9820650) (**IPDPS**) 2022.
+- [Input-Aware Sparse Tensor Storage Format Selection for Optimizing MTTKRP](https://ieeexplore.ieee.org/abstract/document/9540277) (**TC**) 2021.
+- [csTuner: Scalable Auto-tuning Framework for Complex Stencil Computation on GPUs](https://ieeexplore.ieee.org/abstract/document/9556044) (**CLUSTER**) 2021.
+- [Automatic Code Generation and Optimization of Large-scale Stencil Computation on Many-core Processors](https://dl.acm.org/doi/abs/10.1145/3472456.3473517) (**ICPP**) 2021.
+- [An Optimized Tensor Completion Library for Multiple GPUs](https://dl.acm.org/doi/abs/10.1145/3447818.3460692) (**ICS**) 2021.
+- [Towards Efficient Canonical Polyadic Decomposition on Sunway Many-core Processor](https://www.sciencedirect.com/science/article/abs/pii/S0020025520310999) (**Information Sciences**) 2021.
+- [The Deep Learning Compiler: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9222299) (**TPDS**) 2021.
+- [SpTFS: Sparse Tensor Format Selection for MTTKRP via Deep Learning](https://ieeexplore.ieee.org/document/9355324) (**SC**) 2020.
+- [SMQoS: Improving Utilization and Energy Efficiency with QoS Awareness on GPUs](https://ieeexplore.ieee.org/abstract/document/8891047) (**CLUSTER**) 2019.
+- [Improving Thread-level Parallelism in GPUs through Expanding Register File to Scratchpad Memory](https://dl.acm.org/doi/abs/10.1145/3280849) (**TACO**) 2018.
 
 # 🎖 Honors and Awards
-- CCF Distinguished Speaker 2022 
-- CCF-IEEE CS Young Computer Scientist Award 2020
-- **Best Paper Award Nomination**, ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2019. (4 nominations out of 152 submissions). 
+-  ACM SIGHPC China Doctoral Disseration Award 2023 (**ACM SIGHPC中国优博奖**).
+- CCF TCARCH Doctoral Disseration Award 2023 (**CCF体系结构优博奖**).
+- IEEE Computer's "**Spotlight on Transactions**" August 2023.
+- **Best Paper Award Nomination**, IEEE International Conference on Cluster Computing (CLUSTER), 2021. (2 nominations out of 168 submissions).
 
 # 💬 Teaching
-- High-level Chip Design (Spring’22)
-- Compiler Techniques (Spring’16, ’17, ’18, ‘19, ’20, ’21, ’22)
-- C++ Programming and Problem Solving (Spring’13, ’14, ’15, ’16, ’17, ’18, ’19, ’20, ’21)
+- To be updated.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💻 People
-- Mingzhen Li (B.S from Beihang University, Ph.D, started 2019)
+- *2017.09 - 2023.06*, Computer Architecture, Beihang University.
+- *2013.09 - 2017.06*, Computer Science and Technology, China University of Petroleum-Beijing.

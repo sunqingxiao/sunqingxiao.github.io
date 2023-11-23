@@ -5,11 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+encoding :  "utf-8"
+port : 4001
+
 # Site Settings
-title                    : "Hailong Yang"
-description              : "Research Professor"
+title                    : "Qingxiao Sun"
+description              : "Associate Professor"
 repository               : "sunqingxiao/sunqingxiao.github.io"
-google_scholar_stats_use_cdn : true
+
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,14 +24,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hailong Yang"
-  avatar           : "images/HailongYang.jpg"
+  name             : "Qingxiao Sun"
+  avatar           : "images/QingxiaoSun.jpg"
   bio              : # "Beihang University"
-  employer         : "Beihang University"
-  location         : "823, New Building"
-  phone           :  "123"
+  employer         : "China University of Petroleum"
+  location         : # "Main Building B 1513"
+  phone           :  # "+86 153 1312 5721"
   googlescholar    : "https://scholar.google.com.hk/citations?user=LviGR8EAAAAJ&hl=zh-CN"
-  email            : "qingxiaosun@buaa.edu.cn"
+  email            : "qingxiao.sun-at-cup.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,14 +40,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "buaa-hipo"
+  github           : #"buaa-hipo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.uni-trier.de/pers/l/Liang_0001:Yun.html"
+  dblp             : "https://dblp.org/pid/233/8532.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
@@ -66,7 +69,6 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

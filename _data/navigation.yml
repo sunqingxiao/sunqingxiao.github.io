@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -15,8 +15,12 @@ main:
   - title: "Teaching"
     url: "/#-teaching"
 
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: "People"
-    url: "/#-people"
+    url: "/people/"
+
+  - title: "Service"
+    url: "/service/"
+
+  - title: "Software Release"
+    url: https://github.com/SuperScientificSoftwareLaboratory
+
