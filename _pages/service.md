@@ -13,3 +13,4 @@ author_profile: true
 - IEEE Transactions on Computers (TC).
 - IEEE Transactions on Cloud Computing (TCC).
 - CCF Transactions on High Performance Computing (THPC).
+- 计算机工程与科学.

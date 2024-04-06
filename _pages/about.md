@@ -18,13 +18,14 @@ redirect_from:
 
 *China University of Petroleum-Beijing (CUP)*  
 
-I am an associate professor in Super Scientific Software Laboratory ([SSSLab](https://www.ssslab.cn/)) at China University of Petroleum-Beijing. I received Ph.D degree under supervision of [Prof. Yi Liu](https://scse.buaa.edu.cn/info/1078/2656.htm) and [Asso. Prof. Hailong Yang](https://thomas-yang.github.io/). My research interests include high performance computing, computer architecture, deep learning system and parallel computing. My recent research invetigates performance auto-tuning, GPU architecture extension, runtime mechanism and deep learning system. I have authored about 20 publications in the leading international journals and conferences. 
+I am an associate professor in Super Scientific Software Laboratory ([SSSLab](https://www.ssslab.cn/)) at China University of Petroleum-Beijing. I received Ph.D degree under supervision of [Prof. Yi Liu](https://scse.buaa.edu.cn/info/1078/2656.htm) and [Prof. Hailong Yang](https://thomas-yang.github.io/). My research interests include high performance computing, computer architecture, and parallel computing. My recent research invetigates performance auto-tuning, GPU architecture extension, runtime mechanism and deep learning system. I have authored about 20 publications in the leading international journals and conferences. 
 
-I am awarded with ACM SIGHPC China Doctoral Disseration Award (ACM SIGHPC中国优博奖) and CCF TCARCH Doctoral Disseration Award (CCF体系结构优博奖). My papers have been selected as CLUSTER'21 Best Paper Nomination and IEEE Computer's "Spotlight on Transactions". I currently serve as reviewers in the premier journals including TPDS, TC, TCC, THPC and 计算机工程与科学.
+I am awarded with ACM SIGHPC China Doctoral Disseration Award (ACM SIGHPC中国优博), CCF TCARCH Doctoral Disseration Award (CCF体系结构优博) and BUAA Doctoral Disseration Award (北京航空航天大学优博). My papers have been selected as CLUSTER'21 Best Paper Nomination and IEEE Computer's "Spotlight on Transactions". I currently serve as reviewers in the journals including TPDS, TC, TCC, THPC and 计算机工程与科学.
 
 # 🔥 News
 - 🔥 **January 2024:** Awarded with BUAA Doctoral Disseration Award (**北京航空航天大学优秀博士学位论文**). 
 - 🔥 **November 2023:** Awarded with ACM SIGHPC China Doctoral Disseration Award (**ACM SIGHPC中国优博奖**).
+- 🔥 **November 2023:** One paper (GNNSched) is accepted to **计算机工程与科学**.
 - 🔥 **October 2023:** One paper (GSTuner) is accepted to **TPDS**.
 - 🔥 **August 2023:** Invited to give two talks at **CCF HPCChina**.
 - 🔥 **August 2023:** Awarded with CCF TCARCH Doctoral Disseration Award (**CCF体系结构优博奖**).
@@ -50,7 +51,8 @@ I am awarded with ACM SIGHPC China Doctoral Disseration Award (ACM SIGHPC中国�
 - [Improving Thread-level Parallelism in GPUs through Expanding Register File to Scratchpad Memory](https://dl.acm.org/doi/abs/10.1145/3280849) (**TACO**) 2018.
 
 # 🎖 Honors and Awards
--  ACM SIGHPC China Doctoral Disseration Award 2023 (**ACM SIGHPC中国优博奖**).
+- BUAA Doctoral Disseration Award 2024 (**北京航空航天大学优秀博士学位论文**).
+- ACM SIGHPC China Doctoral Disseration Award 2023 (**ACM SIGHPC中国优博奖**).
 - CCF TCARCH Doctoral Disseration Award 2023 (**CCF体系结构优博奖**).
 - IEEE Computer's "**Spotlight on Transactions**" August 2023.
 - **Best Paper Award Nomination**, IEEE International Conference on Cluster Computing (CLUSTER), 2021. (2 nominations out of 168 submissions).
