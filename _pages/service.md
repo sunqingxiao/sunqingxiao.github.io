@@ -6,6 +6,7 @@ author_profile: true
 
 
 ## Conference Program Committee Member
+- **AE PC Member.** PPoPP 2025.
 - **PC Member.** CCF HPCChina 2024.
 - **PC Member.** CCF HPCChina 2023.
 
@@ -17,4 +18,5 @@ author_profile: true
 - Frontiers of Computer Science (FCS).
 - The Journal of Supercomputing (SUPE).
 - CCF Transactions on High Performance Computing (THPC).
+- Journal of Computer Science and Technology (JCST).
 - 计算机工程与科学.

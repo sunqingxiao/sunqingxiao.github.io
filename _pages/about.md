@@ -18,23 +18,27 @@ redirect_from:
 
 *China University of Petroleum-Beijing (CUP)*  
 
-I am an associate professor in Super Scientific Software Laboratory ([SSSLab](https://www.ssslab.cn/)) at China University of Petroleum-Beijing. I received Ph.D degree under supervision of [Prof. Yi Liu](https://scse.buaa.edu.cn/info/1078/2656.htm) and [Prof. Hailong Yang](https://thomas-yang.github.io/). My research interests include high performance computing, computer architecture, and parallel computing. My recent research investigates task-based runtime system, sparse tensor computation, and deep learning inference. I have authored over 20 publications in the leading international journals and conferences. 
+I am an associate professor in Super Scientific Software Laboratory ([SSSLab](https://www.ssslab.cn/)) at China University of Petroleum-Beijing. I received Ph.D degree under supervision of [Prof. Yi Liu](https://scse.buaa.edu.cn/info/1078/2656.htm) and [Prof. Hailong Yang](https://thomas-yang.github.io/). My research interests include high performance computing, computer architecture, and deep learning system. My recent research investigates task-based runtime system, sparse tensor computation, and deep learning compiler. I have authored over 20 publications in the leading international journals and conferences. 
 
-I am awarded with ACM SIGHPC China Doctoral Dissertation Award (ACM SIGHPC中国优博), CCF TCARCH Doctoral Dissertation Award (CCF体系结构优博) and BUAA Doctoral Dissertation Award (北京航空航天大学优博). My papers have been selected as CLUSTER'21 Best Paper Nomination and IEEE Computer's "Spotlight on Transactions". I currently serve as executive committee member of CCF TCARCH, and reviewers in the journals including TPDS, TC, CSUR, TCC, THPC, SUPE, FCS, and 计算机工程与科学.
+I am awarded with ACM SIGHPC China Doctoral Dissertation Award (ACM SIGHPC中国优博), CCF TCARCH Doctoral Dissertation Award (CCF体系结构优博) and BUAA Doctoral Dissertation Award (北京航空航天大学优博). My papers have been selected as CLUSTER'21 Best Paper Nomination and IEEE Computer's "Spotlight on Transactions". I currently serve as executive committee member of CCF TCARCH and TCHPC, as well as reviewers in the journals including TPDS, TC, CSUR, TCC, THPC, SUPE, FCS, JCST and 计算机工程与科学.
 
 # 🔥 News
+- 🔥 **November 2024:** One paper (GeST) is accepted to **计算机研究与发展**, congratulations to myself.
+- 🔥 **November 2024:** One paper (CoMP) is accepted to **THPC**, congratulations to Wenhao.
+- 🔥 **October 2024:** Invited to give one talk at **CNCC**.
 - 🔥 **July 2024:** One paper (ScalFrag) is accepted to **CLUSTER'24**, congratulations to Wenqing.
 - 🔥 **May 2024:** One paper (GeST) is accepted to **ACM Turing China'24**. 
 - 🔥 **January 2024:** Awarded with BUAA Doctoral Dissertation Award (**北京航空航天大学优秀博士学位论文**). 
-- 🔥 **November 2023:** Awarded with ACM SIGHPC China Doctoral Dissertation Award (**ACM SIGHPC中国优博奖**).
-- 🔥 **November 2023:** One paper (GNNSched) is accepted to **计算机工程与科学**.
-- 🔥 **October 2023:** One paper (GSTuner) is accepted to **TPDS**.
+- **November 2023:** Awarded with ACM SIGHPC China Doctoral Dissertation Award (**ACM SIGHPC中国优博奖**).
+- **November 2023:** One paper (GNNSched) is accepted to **计算机工程与科学**.
+- **October 2023:** One paper (GSTuner) is accepted to **TPDS**.
 - **August 2023:** Invited to give two talks at **CCF HPCChina**.
 - **August 2023:** Awarded with CCF TCARCH Doctoral Dissertation Award (**CCF体系结构优博奖**).
 - **May 2023:**  One TC paper (SpTFS) is selected as IEEE Computer's "**Spotlight on Transactions**".
 
 # 📝 Selected Publications
-- [Adaptive Auto-Tuning Framework for Global Exploration of Stencil Optimization on GPUs](https://ieeexplore.ieee.org/abstract/document/10287597) (**TPDS**) 2023.
+- [ScalFrag: Efficient Tiled-MTTKRP with Adaptive Launching on GPUs](https://ieeexplore.ieee.org/document/10740878) (**CLUSTER**) 2024.
+- [Adaptive Auto-Tuning Framework for Global Exploration of Stencil Optimization on GPUs](https://ieeexplore.ieee.org/abstract/document/10287597) (**TPDS**) 2024.
 - [Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU](https://ieeexplore.ieee.org/abstract/document/10177427) (**IPDPS**) 2023.
 - [CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs](https://ieeexplore.ieee.org/abstract/document/10046055) (**SC**) 2022.
 - [QoS-aware Dynamic Resource Allocation with Improved Utilization and Energy Efficiency on GPU](https://www.sciencedirect.com/science/article/abs/pii/S0167819122000503) (**PARCO**) 2022.
