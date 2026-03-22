@@ -15,12 +15,7 @@ main:
   - title: "Teaching"
     url: "/#-teaching"
 
-  - title: "People"
-    url: "/people/"
 
   - title: "Service"
     url: "/service/"
-
-  - title: "Software Release"
-    url: https://github.com/SuperScientificSoftwareLaboratory
 

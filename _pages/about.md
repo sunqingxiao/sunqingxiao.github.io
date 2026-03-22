@@ -10,33 +10,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Associate Professor**
+**Associate Researcher**
 
-*Super Scientific Software Laboratory (SSSLab)*
 
-*College of Information Science and Engineering (CISE)*  
+*School of Computer Science & Engineering*  
 
-*China University of Petroleum-Beijing (CUP)*  
+*Beihang University*  
 
-I am an associate professor in Super Scientific Software Laboratory ([SSSLab](https://www.ssslab.cn/)) at China University of Petroleum-Beijing. I received Ph.D degree under supervision of [Prof. Yi Liu](https://scse.buaa.edu.cn/info/1078/2656.htm) and [Prof. Hailong Yang](https://thomas-yang.github.io/). My research interests include high performance computing, computer architecture, and deep learning system. My recent research investigates task-based runtime system, sparse tensor computation, and deep learning compiler. I have authored over 20 publications in the leading international journals and conferences. 
+I am an associate researcher in School of Computer Science & Engineering at Beihang University. I received Ph.D degree under supervision of [Prof. Yi Liu](https://scse.buaa.edu.cn/info/1078/2656.htm) and [Prof. Hailong Yang](https://thomas-yang.github.io/). My research interests include high performance computing, computer architecture, and deep learning system. My recent research investigates task-based runtime system, sparse tensor computation, and deep learning compiler. I have authored over 30 publications in the leading international journals and conferences. 
 
 I am awarded with ACM SIGHPC China Doctoral Dissertation Award (ACM SIGHPC中国优博), CCF TCARCH Doctoral Dissertation Award (CCF体系结构优博) and BUAA Doctoral Dissertation Award (北京航空航天大学优博). My papers have been selected as CLUSTER'21 Best Paper Nomination and IEEE Computer's "Spotlight on Transactions". I currently serve as executive committee member of CCF TCARCH and TCHPC, as well as reviewers in the journals including TPDS, TC, CSUR, TCC, THPC, SUPE, FCS, JCST and 计算机工程与科学.
 
 # 🔥 News
-- 🔥 **November 2024:** One paper (GeST) is accepted to **计算机研究与发展**, congratulations to myself.
-- 🔥 **November 2024:** One paper (CoMP) is accepted to **THPC**, congratulations to Wenhao.
-- 🔥 **October 2024:** Invited to give one talk at **CNCC**.
-- 🔥 **July 2024:** One paper (ScalFrag) is accepted to **CLUSTER'24**, congratulations to Wenqing.
-- 🔥 **May 2024:** One paper (GeST) is accepted to **ACM Turing China'24**. 
-- 🔥 **January 2024:** Awarded with BUAA Doctoral Dissertation Award (**北京航空航天大学优秀博士学位论文**). 
-- **November 2023:** Awarded with ACM SIGHPC China Doctoral Dissertation Award (**ACM SIGHPC中国优博奖**).
-- **November 2023:** One paper (GNNSched) is accepted to **计算机工程与科学**.
-- **October 2023:** One paper (GSTuner) is accepted to **TPDS**.
-- **August 2023:** Invited to give two talks at **CCF HPCChina**.
-- **August 2023:** Awarded with CCF TCARCH Doctoral Dissertation Award (**CCF体系结构优博奖**).
-- **May 2023:**  One TC paper (SpTFS) is selected as IEEE Computer's "**Spotlight on Transactions**".
+- 🔥 **March 2026:** Invited to give one talk at **CCF第一届先进计算与系统结构青年学者研讨会**.
+- 🔥 **March 2026:** One paper (PULSE) is accepted to **ASPLOS'26**, congratulations to Yiqing.
+- 🔥 **January 2026:** Two papers (APERTURE, STOF) are accepted to **PPoPP'26**, congratulations to Yiqing and Wenhao.
+- **October 2026:** Invited to give one talk at **SQZ Talk**.
+- **June 2025:** One paper (Plasticine) is accepted to **ICS'25**, congratulations to Siqi.
+- **June 2025:** One paper (GNNPerf) is accepted to **IPDPS'25**, congratulations to Kejie.
+
 
 # 📝 Selected Publications
+- [Efficient Temporal Graph Network Training via Unified Redundancy Elimination](https://dl.acm.org/doi/abs/10.1145/3779212.3790157) (**ASPLOS**) 2026.
+- [APERTURE: Algorithm-System Co-optimization for Temporal Graph Network Inference](https://dl.acm.org/doi/10.1145/3774934.3786450) (**PPoPP**) 2026.
+- [Accelerating Sparse Transformer Inference on GPU](https://dl.acm.org/doi/10.1145/3774934.3786434) (**PPoPP**) 2026.
+- [GNNPerf: Towards Effective Performance Profiling and Analysis Across GNN Frameworks](https://ieeexplore.ieee.org/document/11078549/) (**IPDPS**) 2025.
+- [Accelerating Complex Stencil Computations with Adaptive Fusion Strategy](https://dl.acm.org/doi/10.1145/3721145.3725768) (**ICS**) 2025.
 - [ScalFrag: Efficient Tiled-MTTKRP with Adaptive Launching on GPUs](https://ieeexplore.ieee.org/document/10740878) (**CLUSTER**) 2024.
 - [Adaptive Auto-Tuning Framework for Global Exploration of Stencil Optimization on GPUs](https://ieeexplore.ieee.org/abstract/document/10287597) (**TPDS**) 2024.
 - [Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU](https://ieeexplore.ieee.org/abstract/document/10177427) (**IPDPS**) 2023.
@@ -61,9 +60,7 @@ I am awarded with ACM SIGHPC China Doctoral Dissertation Award (ACM SIGHPC中国
 - **Best Paper Award Nomination**, IEEE International Conference on Cluster Computing (CLUSTER), 2021. (2 nominations out of 168 submissions).
 
 # 💬 Teaching
-- Parallel Programming (**并行程序设计**), Undergraduate students, 32 hours.
-- Principles of Computer Organization (**计算机组成原理**), International students, 64 hours.
-- Artificial Intelligence System Platform Training (**人工智能系统平台实训**), Undergraduate students, 16 hours.
+- To be updated.
 
 # 📖 Educations
 - *2017.09 - 2023.06*, Computer Architecture, Beihang University.

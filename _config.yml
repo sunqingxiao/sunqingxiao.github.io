@@ -10,7 +10,7 @@ port : 4001
 
 # Site Settings
 title                    : "Qingxiao Sun"
-description              : "Associate Professor"
+description              : "Associate Researcher"
 repository               : "sunqingxiao/sunqingxiao.github.io"
 
 
@@ -27,11 +27,11 @@ author:
   name             : "Qingxiao Sun"
   avatar           : "images/QingxiaoSun.jpg"
   bio              : # "Beihang University"
-  employer         : "China University of Petroleum"
-  location         : # "Main Building B 1513"
+  employer         : "Beihang University"
+  location         : # "New Main Building G413"
   phone           :  # "+86 153 1312 5721"
   googlescholar    : "https://scholar.google.com.hk/citations?user=LviGR8EAAAAJ&hl=zh-CN"
-  email            : "qingxiao.sun-at-cup.edu.cn"
+  email            : "qingxiaosun-at-buaa.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

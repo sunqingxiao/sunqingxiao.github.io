@@ -6,7 +6,9 @@ author_profile: true
 
 
 ## Conference Program Committee Member
+- **AE PC Member.** PPoPP 2026.
 - **AE PC Member.** PPoPP 2025.
+- **AE PC Member.** USENIX ATC 2025.
 - **PC Member.** CCF HPCChina 2024.
 - **PC Member.** CCF HPCChina 2023.
 
