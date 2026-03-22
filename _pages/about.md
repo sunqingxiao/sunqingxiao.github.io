@@ -35,7 +35,10 @@ I am awarded with ACM SIGHPC China Doctoral Dissertation Award (ACM SIGHPC中国
 - [APERTURE: Algorithm-System Co-optimization for Temporal Graph Network Inference](https://dl.acm.org/doi/10.1145/3774934.3786450) (**PPoPP**) 2026.
 - [Accelerating Sparse Transformer Inference on GPU](https://dl.acm.org/doi/10.1145/3774934.3786434) (**PPoPP**) 2026.
 - [GNNPerf: Towards Effective Performance Profiling and Analysis Across GNN Frameworks](https://ieeexplore.ieee.org/document/11078549/) (**IPDPS**) 2025.
+- [MILLION: MasterIng Long-Context LLM Inference Via Outlier-Immunized KV Product QuaNtization](https://ieeexplore.ieee.org/abstract/document/11132862) (**DAC**) 2025.
+- [PISA: Efficient Precision-Slice Framework for LLMs with Adaptive Numerical Type](https://ieeexplore.ieee.org/abstract/document/11132980) (**DAC**) 2025.
 - [Accelerating Complex Stencil Computations with Adaptive Fusion Strategy](https://dl.acm.org/doi/10.1145/3721145.3725768) (**ICS**) 2025.
+- [EVASION: Efficient KV CAche CompreSsion vIa PrOduct QuaNtization](https://ieeexplore.ieee.org/abstract/document/10992781) (**DATE**) 2025.
 - [ScalFrag: Efficient Tiled-MTTKRP with Adaptive Launching on GPUs](https://ieeexplore.ieee.org/document/10740878) (**CLUSTER**) 2024.
 - [Adaptive Auto-Tuning Framework for Global Exploration of Stencil Optimization on GPUs](https://ieeexplore.ieee.org/abstract/document/10287597) (**TPDS**) 2024.
 - [Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU](https://ieeexplore.ieee.org/abstract/document/10177427) (**IPDPS**) 2023.
