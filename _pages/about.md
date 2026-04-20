@@ -10,14 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Associate Researcher**
-
+**Associate Professor**
 
 *School of Computer Science & Engineering*  
 
 *Beihang University*  
 
-I am an associate researcher in School of Computer Science & Engineering at Beihang University. I received Ph.D degree under supervision of [Prof. Yi Liu](https://scse.buaa.edu.cn/info/1078/2656.htm) and [Prof. Hailong Yang](https://thomas-yang.github.io/). My research interests include high performance computing, computer architecture, and deep learning system. My recent research investigates task-based runtime system, sparse tensor computation, and deep learning compiler. I have authored over 30 publications in the leading international journals and conferences. 
+I am an associate professor in School of Computer Science & Engineering at Beihang University. I received Ph.D degree under supervision of [Prof. Yi Liu](https://scse.buaa.edu.cn/info/1078/2656.htm) and [Prof. Hailong Yang](https://thomas-yang.github.io/). My research interests include high performance computing, computer architecture, and deep learning system. My recent research investigates task-based runtime system, sparse tensor computation, and deep learning compiler. I have authored over 30 publications in the leading international journals and conferences. 
 
 I am awarded with ACM SIGHPC China Doctoral Dissertation Award (ACM SIGHPC中国优博), CCF TCARCH Doctoral Dissertation Award (CCF体系结构优博) and BUAA Doctoral Dissertation Award (北京航空航天大学优博). My papers have been selected as CLUSTER'21 Best Paper Nomination and IEEE Computer's "Spotlight on Transactions". I currently serve as executive committee member of CCF TCARCH and TCHPC, as well as reviewers in the journals including TPDS, TC, CSUR, TCC, THPC, SUPE, FCS, JCST and 计算机工程与科学.
 
