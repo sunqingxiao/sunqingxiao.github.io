@@ -24,8 +24,8 @@ I am awarded with ACM SIGHPC China Doctoral Dissertation Award (ACM SIGHPC中国
 - 🔥 **April 2026:** One paper (ASTRA) is accepted to **ICS'26**, congratulations to Wenqing and Jianuo.
 - 🔥 **March 2026:** Invited to give one talk at **CCF第一届先进计算与系统结构青年学者研讨会**.
 - 🔥 **March 2026:** One paper (PULSE) is accepted to **ASPLOS'26**, congratulations to Yiqing.
-- 🔥 **January 2026:** Two papers (APERTURE, STOF) are accepted to **PPoPP'26**, congratulations to Yiqing and Wenhao.
-- **October 2026:** Invited to give one talk at **SQZ Talk**.
+- 🔥 **January 2026:** One paper (APERTURE) are accepted to **PPoPP'26**, congratulations to Yiqing.
+- **October 2025:** Invited to give one talk at **SQZ Talk**.
 - **June 2025:** One paper (Plasticine) is accepted to **ICS'25**, congratulations to Siqi.
 - **June 2025:** One paper (GNNPerf) is accepted to **IPDPS'25**, congratulations to Kejie.
 
@@ -34,7 +34,6 @@ I am awarded with ACM SIGHPC China Doctoral Dissertation Award (ACM SIGHPC中国
 - Optimizing Streaming Tensor Decomposition on GPU (**ICS**) 2026.
 - [Efficient Temporal Graph Network Training via Unified Redundancy Elimination](https://dl.acm.org/doi/abs/10.1145/3779212.3790157) (**ASPLOS**) 2026.
 - [APERTURE: Algorithm-System Co-optimization for Temporal Graph Network Inference](https://dl.acm.org/doi/10.1145/3774934.3786450) (**PPoPP**) 2026.
-- [Accelerating Sparse Transformer Inference on GPU](https://dl.acm.org/doi/10.1145/3774934.3786434) (**PPoPP**) 2026.
 - [GNNPerf: Towards Effective Performance Profiling and Analysis Across GNN Frameworks](https://ieeexplore.ieee.org/document/11078549/) (**IPDPS**) 2025.
 - [MILLION: MasterIng Long-Context LLM Inference Via Outlier-Immunized KV Product QuaNtization](https://ieeexplore.ieee.org/abstract/document/11132862) (**DAC**) 2025.
 - [PISA: Efficient Precision-Slice Framework for LLMs with Adaptive Numerical Type](https://ieeexplore.ieee.org/abstract/document/11132980) (**DAC**) 2025.
