@@ -21,6 +21,8 @@ I am an associate professor in School of Computer Science & Engineering at Beiha
 I am awarded with ACM SIGHPC China Doctoral Dissertation Award (ACM SIGHPC中国优博), CCF TCARCH Doctoral Dissertation Award (CCF体系结构优博) and BUAA Doctoral Dissertation Award (北京航空航天大学优博). My papers have been selected as CLUSTER'21 Best Paper Nomination and IEEE Computer's "Spotlight on Transactions". I currently serve as executive committee member of CCF TCARCH and TCHPC, as well as reviewers in the journals including TPDS, TC, CSUR, TCC, THPC, SUPE, FCS, JCST and 计算机工程与科学.
 
 # 🔥 News
+- 🔥 **July 2026:** Two papers ( SpG-Attention, Grape) are accepted to **SC'26**, congratulations to Kejie and Siqi.
+- 🔥 **July 2026:** One paper (MAGSAT) is accepted to **ICPP'26**, congratulations to Haodong.
 - 🔥 **April 2026:** One paper (ASTRA) is accepted to **ICS'26**, congratulations to Wenqing and Jianuo.
 - 🔥 **March 2026:** Invited to give one talk at **CCF第一届先进计算与系统结构青年学者研讨会**.
 - 🔥 **March 2026:** One paper (PULSE) is accepted to **ASPLOS'26**, congratulations to Yiqing.
@@ -31,7 +33,10 @@ I am awarded with ACM SIGHPC China Doctoral Dissertation Award (ACM SIGHPC中国
 
 
 # 📝 Selected Publications
-- Optimizing Streaming Tensor Decomposition on GPU (**ICS**) 2026.
+- Towards High-Performance Sparse Graph Attention on Dense Tensor Core Units (**SC**) 2026.
+- Efficient Serving for Agentic LLM Workflows via Micro-Task-Level Parallelism (**SC**) 2026.
+- MAGSAT: Memory-Access-Guided Fusion and Shape-Adaptive Auto-Tuning for Dynamic Tensor Programs (**ICPP**) 2026.
+- [Optimizing Streaming Tensor Decomposition on GPU](https://dl.acm.org/doi/10.1145/3797905.3807865) (**ICS**) 2026.
 - [Efficient Temporal Graph Network Training via Unified Redundancy Elimination](https://dl.acm.org/doi/abs/10.1145/3779212.3790157) (**ASPLOS**) 2026.
 - [APERTURE: Algorithm-System Co-optimization for Temporal Graph Network Inference](https://dl.acm.org/doi/10.1145/3774934.3786450) (**PPoPP**) 2026.
 - [GNNPerf: Towards Effective Performance Profiling and Analysis Across GNN Frameworks](https://ieeexplore.ieee.org/document/11078549/) (**IPDPS**) 2025.
