@@ -23,6 +23,7 @@ I am awarded with ACM SIGHPC China Doctoral Dissertation Award (ACM SIGHPC中国
 # 🔥 News
 - 🔥 **July 2026:** Two papers ( SpG-Attention, Grape) are accepted to **SC'26**, congratulations to Kejie and Siqi.
 - 🔥 **July 2026:** One paper (MAGSAT) is accepted to **ICPP'26**, congratulations to Haodong.
+-  **June 2026:** Invited to give one talk at **CCF第一届大模型与AI工程大会**.
 - 🔥 **April 2026:** One paper (ASTRA) is accepted to **ICS'26**, congratulations to Wenqing and Jianuo.
 - 🔥 **March 2026:** Invited to give one talk at **CCF第一届先进计算与系统结构青年学者研讨会**.
 - 🔥 **March 2026:** One paper (PULSE) is accepted to **ASPLOS'26**, congratulations to Yiqing.
