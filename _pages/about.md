@@ -62,7 +62,7 @@ I am awarded with BAAI Young Scholar (北京市智源青年学者), ACM SIGHPC C
 - [Improving Thread-level Parallelism in GPUs through Expanding Register File to Scratchpad Memory](https://dl.acm.org/doi/abs/10.1145/3280849) (**TACO**) 2018.
 
 # 🎖 Honors and Awards
-- BAAI Young Scholar (**北京市智源青年学者**).
+- BAAI Young Scholar 2026 (**北京市智源青年学者**).
 - BUAA Doctoral Dissertation Award 2024 (**北京航空航天大学优秀博士学位论文**).
 - ACM SIGHPC China Doctoral Dissertation Award 2023 (**ACM SIGHPC中国优博奖**).
 - CCF TCARCH Doctoral Dissertation Award 2023 (**CCF体系结构优博奖**).
